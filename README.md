@@ -1,19 +1,15 @@
-# HiPoSeg 🦛: Hierarchical Prototype Learning for Semantic Segmentation
+# 🦛 Hierarchical Prototype Learning for Semantic Segmentation
 **The Fourteenth International Conference on Learning Representations (ICLR) 2026**
+
+Seoha Lim*, Jinmyeong Kim*, Jieun Kim, Sung-Bae Cho  
+Yonsei University  
+{seoha815, jmkim_, lilly9928, sbcho}@yonsei.ac.kr
 
 [Project Page](https://iclr.cc/virtual/2026/poster/10006745) | [Paper](https://openreview.net/forum?id=wHMuQ9HgUo) | [Contact](https://seoha815.github.io/)
 
 <p align="center">
   <img src="figure/fig1_v4_1.png" width="60%">
 </p>
-
-**Hierarchical Prototype Learning for Semantic Segmentation**
-
-The Fourteenth International Conference on Learning Representations (ICLR) 2026
-
-Seoha Lim*, Jinmyeong Kim*, Jieun Kim, Sung-Bae Cho  
-Yonsei University  
-{seoha815, jmkim_, lilly9928, sbcho}@yonsei.ac.kr
 
 ## 💡 Abstract
 
@@ -25,7 +21,7 @@ Conventional semantic segmentation methods often fail to distinguish fine-graine
 
 Overview of HiPoSeg, composed of (1) prototype construction: pixel features are grouped by low-level labels and their corresponding high-level mappings to initialize both low- and high-level prototypes, (2) high-level learning: pixel features are pulled toward their high-level prototypes that are enforced to be mutually separated, (3) low-level learning: after high-level convergence, low-level discrimination is refined using the same pull–push mechanism, and (4) hierarchical alignment: each low-level prototype is constrained to remain close to its parent high-level prototype while preserving separation between different high-level groups.
 
-## 🔎 Results
+## 🔎 HiPoSeg's Results
 
 <p align="center">
   <img src="figure/result_a.png" width="80%">
