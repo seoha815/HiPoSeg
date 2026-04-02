@@ -8,6 +8,7 @@
 </p>
 
 **Hierarchical Prototype Learning for Semantic Segmentation**
+
 The Fourteenth International Conference on Learning Representations (ICLR) 2026
 
 Seoha Lim*, Jinmyeong Kim*, Jieun Kim, Sung-Bae Cho  
