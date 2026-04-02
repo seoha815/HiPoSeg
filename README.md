@@ -1,13 +1,14 @@
 # HiPoSeg 🦛: Hierarchical Prototype Learning for Semantic Segmentation
 **The Fourteenth International Conference on Learning Representations (ICLR) 2026**
 
-[Project Page](https://iclr.cc/virtual/2026/poster/10006745) | [Paper](https://openreview.net/forum?id=wHMuQ9HgUo)
+[Project Page](https://iclr.cc/virtual/2026/poster/10006745) | [Paper](https://openreview.net/forum?id=wHMuQ9HgUo) | [Contact](https://seoha815.github.io/)
 
 <p align="center">
   <img src="figure/fig1_v4_1.png" width="60%">
 </p>
 
 **Hierarchical Prototype Learning for Semantic Segmentation**
+
 The Fourteenth International Conference on Learning Representations (ICLR) 2026
 
 Seoha Lim*, Jinmyeong Kim*, Jieun Kim, Sung-Bae Cho  
