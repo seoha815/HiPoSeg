@@ -1,9 +1,9 @@
 # 🦛 Hierarchical Prototype Learning for Semantic Segmentation
 **The Fourteenth International Conference on Learning Representations (ICLR) 2026**
 
-Seoha Lim*, Jinmyeong Kim*, Jieun Kim, Sung-Bae Cho  
-Yonsei University  
-{seoha815, jmkim_, lilly9928, sbcho}@yonsei.ac.kr
+> Seoha Lim*, Jinmyeong Kim*, Jieun Kim, Sung-Bae Cho  
+> Yonsei University  
+> {seoha815, jmkim_, lilly9928, sbcho}@yonsei.ac.kr
 
 [Project Page](https://iclr.cc/virtual/2026/poster/10006745) | [Paper](https://openreview.net/forum?id=wHMuQ9HgUo) | [Contact](https://seoha815.github.io/)
 
