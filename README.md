@@ -19,7 +19,7 @@ Conventional semantic segmentation methods often fail to distinguish fine-graine
   <img src="figure/fig2_v4_1.png" width="90%">
 </p>
 
-Overview of HiPoSeg, composed of (1) prototype construction: pixel features are grouped by low-level labels and their corresponding high-level mappings to initialize both low- and high-level prototypes, (2) high-level learning: pixel features are pulled toward their high-level prototypes that are enforced to be mutually separated, (3) low-level learning: after high-level convergence, low-level discrimination is refined using the same pull–push mechanism, and (4) hierarchical alignment: each low-level prototype is constrained to remain close to its parent high-level prototype while preserving separation between different high-level groups.
+> Overview of HiPoSeg, composed of (1) prototype construction: pixel features are grouped by low-level labels and their corresponding high-level mappings to initialize both low- and high-level prototypes, (2) high-level learning: pixel features are pulled toward their high-level prototypes that are enforced to be mutually separated, (3) low-level learning: after high-level convergence, low-level discrimination is refined using the same pull–push mechanism, and (4) hierarchical alignment: each low-level prototype is constrained to remain close to its parent high-level prototype while preserving separation between different high-level groups.
 
 ## 🔎 HiPoSeg's Results
 
